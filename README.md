@@ -16,6 +16,8 @@ To complete this project, students should have the following:
 
 ## Your Challenge
 
+------------------------------------------------
+
 ### Part I : Set Up the Game Scene
 
 To complete Part I, fulfill the following requirements:
@@ -34,6 +36,8 @@ To complete Part I, fulfill the following requirements:
 **In the ```div``` with an ```id``` of "container", create:**
 * A ```div``` with an ```id``` of "player" that contains an ```img``` of the batman file stored in the ```assets``` directory. Set the ```width``` and ```height``` of this image to "60px".
 * An ```img``` of the tombstone file stored in the ```assets``` directory. Set the ```width``` and ```height``` of this image to "50px". Set the ```id``` of this image to ```tombstone```.
+
+------------------------------------------------
 
 ### Part II : Full Scene
 
