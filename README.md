@@ -146,16 +146,16 @@ Remember, these methods are functions in our Object Constructor. So, any object 
 * Set ```zom.style.position``` equal to ```absolute``` so we can control the zombie's position using its left and top properties.
 * Set ```zom.style.left``` equal to the left value plus 'px'. (Ex. ```zom.style.left = left + 'px'```)
 * Set ```zom.style.top``` equal to the top value plus 'px'.
-4. Create a new object using the ```zombie``` Object Constructor and set that equal to the variable ```z1```. This object will take in the following parameters:
+* Create a new object using the ```zombie``` Object Constructor and set that equal to the variable ```z1```. This object will take in the following parameters:
 * zom
 * randomSpeed
 * zom.style.height
 * zom.style.width
 * zombieLeft
 * zombieTop
-5. Push this object into the empty array ```arr```. *Hint: https://www.w3schools.com/js/js_array_methods.asp How do we push objects into an array? Do we use quotation marks?*
-6. Append the child ```zom``` onto the container. Since we created this in our JavaScript file and it was not originally on our page, we need to "append" this new element onto an existing element in our window. *Link for more information: https://www.w3schools.com/jsref/met_document_createelement.asp*
-7. Call your function! *What's the difference between calling and defining a function? https://www.w3schools.com/js/js_functions.asp*
+* Push this object into the empty array ```arr```. *Hint: https://www.w3schools.com/js/js_array_methods.asp How do we push objects into an array? Do we use quotation marks?*
+* Append the child ```zom``` onto the container. Since we created this in our JavaScript file and it was not originally on our page, we need to "append" this new element onto an existing element in our window. *Link for more information: https://www.w3schools.com/jsref/met_document_createelement.asp*
+4. Call your function! *What's the difference between calling and defining a function? https://www.w3schools.com/js/js_functions.asp*
 
 ------------------------------------------------
 
@@ -179,4 +179,4 @@ if (array[i].top < playerTop) {
 
 ### Stretch Goals
 1. Pretty up your page!
-2. How can we make this game more fun? Add obstacles, boosts, and other enhancements to this game! 
+2. How can we make this game more fun? Add obstacles, boosts, and other enhancements to this game!
