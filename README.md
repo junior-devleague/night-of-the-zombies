@@ -175,4 +175,8 @@ if (array[i].top < playerTop) {
 }
 ```
 
-5. When will the player be eaten? Create an if statement that will account for this special case. 
+5. When will the player be eaten? Create an if statement that will account for this special case.
+
+### Stretch Goals
+1. Pretty up your page!
+2. How can we make this game more fun? Add obstacles, boosts, and other enhancements to this game! 
