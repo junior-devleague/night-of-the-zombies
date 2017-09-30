@@ -153,7 +153,7 @@ Remember, these methods are functions in our Object Constructor. So, any object 
 * zom.style.width
 * zombieLeft
 * zombieTop
-* Push this object into the empty array ```arr```. *Hint: https://www.w3schools.com/js/js_array_methods.asp How do we push objects into an array? Do we use quotation marks?*
+* Set your object equal to ```z1```. Push this object into the empty array ```arr```. *Hint: https://www.w3schools.com/js/js_array_methods.asp How do we push objects into an array? Do we use quotation marks?*
 * Append the child ```zom``` onto the container. Since we created this in our JavaScript file and it was not originally on our page, we need to "append" this new element onto an existing element in our window. *Link for more information: https://www.w3schools.com/jsref/met_document_createelement.asp*
 4. Call your function! *What's the difference between calling and defining a function? https://www.w3schools.com/js/js_functions.asp*
 
