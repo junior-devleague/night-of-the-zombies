@@ -160,7 +160,7 @@ Remember, these methods are functions in our Object Constructor. So, any object 
 ------------------------------------------------
 
 ### Part VI : Zombie Overrun
-1. Create a variable called ```interval``` that will set an interval for our spawn function every 5000 milliseconds.  *https://www.w3schools.com/jsref/met_win_setinterval.asp*
+1. Create a variable called ```interval``` at the top of your code that will set an interval for our spawn function every 5000 milliseconds.  *https://www.w3schools.com/jsref/met_win_setinterval.asp*
 2. Create a function called ```check``` that will take in ```array``` as a parameter.
 3. In this function, create a for loop that will go through the length of the array. *https://www.w3schools.com/js/js_loop_for.asp*
 4. Remember, the array we will be putting in this function is the array of zombies that we've created previously. The zombies were objects and each object had its own properties and methods! In this check function, we are going to check where our zombie's position is in comparison to our player. We did this before!
