@@ -180,3 +180,5 @@ if (array[i].top < playerTop) {
 ### Stretch Goals
 1. Pretty up your page!
 2. How can we make this game more fun? Add obstacles, boosts, and other enhancements to this game!
+3. Create a modal box with an input, start and instructions button. When the user types in their name in the input, store that in a variable. (Don't let them start the game if there's nothing in the input!) On click of the start button, start your game! On click of the instructions button, display a quick guide on how to play the game in the modal box.
+4. Tally up the scores based on 'turns'. Each time the player moves a step (or the person presses the arrow keys), it will count towards 1 point of survival. Create a scoreboard using the HTML table element. Store the values of the score in a new localStorage item which will be displayed on the scoreboard. 
