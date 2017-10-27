@@ -175,10 +175,8 @@ if (array[i].top < playerTop) {
 }
 ```
 
-5. When will the player be eaten? Create an if statement that will account for this special case.
-
 ### Stretch Goals
 1. Pretty up your page!
-2. How can we make this game more fun? Add obstacles, boosts, and other enhancements to this game!
-3. Create a modal box with an input, start and instructions button. When the user types in their name in the input, store that in a variable. (Don't let them start the game if there's nothing in the input!) On click of the start button, start your game! On click of the instructions button, display a quick guide on how to play the game in the modal box.
-4. Tally up the scores based on 'turns'. Each time the player moves a step (or the person presses the arrow keys), it will count towards 1 point of survival. Create a scoreboard using the HTML table element. Store the values of the score in a new localStorage item which will be displayed on the scoreboard. 
+2. Create a modal box with an input for the player to type in their name and a start button. Don't let them start the game if there's nothing in the input! On click of the start button, start your game!
+3. Tally up the scores based on 'turns'. Each time the player moves a step (or the person presses the arrow keys), it will count towards 1 point of survival. Create a scoreboard using the HTML table element.
+3. Assign the score to a localStorage item with the name of the player! When time runs out, create a for loop to iterate through the length of the localStorage and display a list of all the players and their scores.
